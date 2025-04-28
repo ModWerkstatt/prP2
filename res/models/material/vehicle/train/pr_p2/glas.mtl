@@ -7,13 +7,11 @@ return {
 			fadeOutStartDist = 10000,
 		},
 		map_albedo_opacity = {
-			fileName = "models/vehicle/train/pr_g3/glas_albedo_opacity.dds",
-			scaleDownAllowed = false,
+			fileName = "models/vehicle/train/pr_p2/glas_albedo_opacity.dds",
 			type = "TWOD",
 		},
 		map_metal_gloss_ao = {
-			fileName = "models/vehicle/train/pr_g3/glas_metal_gloss_ao.dds",
-			scaleDownAllowed = false,
+			fileName = "models/vehicle/train/pr_p2/glas_metal_gloss_ao.dds",
 			type = "TWOD",
 		},
 		polygon_offset = {
