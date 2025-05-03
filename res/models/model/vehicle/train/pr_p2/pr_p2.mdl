@@ -353,6 +353,12 @@ return {
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.8263, -1.0751923322678, 1.1820540428162, 1, },
 					        },
 					        {
+						        materials = { "vehicle/train/pr_p2/glas.mtl", },
+						        mesh = "vehicle/train/pr_p2/glas_lod0.msh",
+						        name = "licht_glas_p2",
+						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					        },
+					        {
 						        materials = { "vehicle/train/pr_p2/licht.mtl", },
 						        mesh = "vehicle/train/pr_p2/licht_weiss_lod0.msh",
 						        name = "licht_weiss",
@@ -562,10 +568,10 @@ return {
 					innerForwardParts = { },
 				},
 				{
-					axles = {  
+					axles = {
 								"vehicle/train/pr_p2/rad_lod1.msh",
 								"vehicle/train/pr_p2/rad_2t7_lod1.msh",
-								
+
 																		},
 					backBackwardParts = { 16, },
 					backForwardParts = { 21, },
