@@ -55,26 +55,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_1l.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_left = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_1l.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_1l.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_left = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_1l.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_l.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -90,26 +90,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_2l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_left = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_2l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_2l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_left = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_2l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -125,26 +125,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_3l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_left = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_3l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_3l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_left = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_3l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -160,26 +160,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_4l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_right = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_4l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_4l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_right = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_4l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -195,26 +195,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_1r.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_left = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_1r.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_1r.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_left = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_1r.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_r.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -230,26 +230,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_2r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_right = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_2r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_2r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_right = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_2r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -265,26 +265,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_3r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_right = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_3r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_3r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_right = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_3r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -300,26 +300,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_4r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_right = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_4r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_4r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_right = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_4r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -374,26 +374,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_1l.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_left = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_1l.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_1l.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_left = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_1l.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_l.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -409,26 +409,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_2l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_left = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_2l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_2l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_left = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_2l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -444,26 +444,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_3l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_left = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_3l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_3l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_left = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_3l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -479,26 +479,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_4l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_right = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_4l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_4l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_right = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_4l.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_l.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -514,26 +514,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_1r.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_left = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_1r.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_1r.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_left = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_1r.ani",
+									id = "vehicle/waggon/reg_ab/tuer1_r.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -549,26 +549,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_2r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_right = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_2r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_2r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_right = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_2r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -584,26 +584,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_3r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_right = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_3r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_3r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_right = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_3r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
@@ -619,26 +619,26 @@ return {
 							close_all_doors = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_4r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							close_doors_right = {
 								forward = false,
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_4r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_all_doors = {
                                 params = {
-									id = "vehicle/waggon/reg_ab/tur_4r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
 							open_doors_right = {
 								params = {
-									id = "vehicle/waggon/reg_ab/tur_4r.ani",
+									id = "vehicle/waggon/reg_ab/tuer2_r.ani",
 								},
 								type = "FILE_REF",
 							},
