@@ -574,8 +574,8 @@ return {
 
 																		},
 					backBackwardParts = { 16, },
-					backForwardParts = { 21, },
-					frontBackwardParts = { 22, },
+					backForwardParts = { 22, },
+					frontBackwardParts = { 23, },
 					frontForwardParts = { 15, },
 					innerBackwardParts = { },
 					innerForwardParts = { },
