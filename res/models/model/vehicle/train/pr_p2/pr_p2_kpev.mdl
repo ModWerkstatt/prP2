@@ -18,19 +18,19 @@ return {
                     {
 				        children = {
 					        {
-						        materials = { "vehicle/train/pr_p2/rumpf.mtl", },
+						        materials = { "vehicle/train/pr_p2/rumpf_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/rumpf_lod0.msh",
 						        name = "rumpf_p2",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
 					        {
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/rad_lod0.msh",
 						        name = "rad",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.97374576330185, 1, },
 					        },
 					        {
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/rad_lod0.msh",
 						        name = "rad",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -2.227, 0, 0.97374576330185, 1, },
@@ -38,19 +38,19 @@ return {
                             {
 				                children = {
                                     {
-						                materials = { "vehicle/train/pr_p2/tender.mtl", },
+						                materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						                mesh = "vehicle/train/pr_p2/drehgestell_lod0.msh",
 						                name = "bogie_p2",
 						                transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.59615, 1, },
 					                },
 					                {
-						                materials = { "vehicle/train/pr_p2/tender.mtl", },
+						                materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						                mesh = "vehicle/train/pr_p2/rad_klein_lod0.msh",
 						                name = "rad_klein",
 						                transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.6551, 0, 0.45709, 1, },
 					                },
 					                {
-						                materials = { "vehicle/train/pr_p2/tender.mtl", },
+						                materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						                mesh = "vehicle/train/pr_p2/rad_klein_lod0.msh",
 						                name = "rad_klein",
 						                transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.6576, 0, 0.45709, 1, },
@@ -68,7 +68,7 @@ return {
 								        type = "FILE_REF",
 							        },
 						        },
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/antrieb_links_lod0.msh",
 						        name = "antrieb_links",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.0055, 0.9534940123558, 1.3275973796844, 1, },
@@ -82,7 +82,7 @@ return {
 								        type = "FILE_REF",
 							        },
 						        },
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/antrieb_rechts_lod0.msh",
 						        name = "antrieb_rechts",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.0054, -0.95349395275116, 0.62004441022873, 1, },
@@ -96,7 +96,7 @@ return {
 								        type = "FILE_REF",
 							        },
 						        },
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/binder_links_lod0.msh",
 						        name = "binder_links",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.0048, 1.075520157814, 1.3277859687805, 1, },
@@ -110,7 +110,7 @@ return {
 								        type = "FILE_REF",
 							        },
 						        },
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/binder_rechts_lod0.msh",
 						        name = "binder_rechts",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.0051, -1.0755232572556, 0.62029135227203, 1, },
@@ -124,7 +124,7 @@ return {
 								        type = "FILE_REF",
 							        },
 						        },
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/schieber_links_lod0.msh",
 						        name = "schieber_links",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.9189, 1.075189948082, 1.1935002803802, 1, },
@@ -138,13 +138,13 @@ return {
 								        type = "FILE_REF",
 							        },
 						        },
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/schieber_rechts_lod0.msh",
 						        name = "schieber_rechts",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.8263, -1.0751923322678, 1.1820540428162, 1, },
 					        },
 					        {
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/innen_lod0.msh",
 						        name = "innen_p2",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -174,19 +174,19 @@ return {
                     {
 				        children = {
 				            {
-					            materials = { "vehicle/train/pr_p2/tender.mtl", },
+					            materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 					            mesh = "vehicle/train/pr_p2/tender_lod0.msh",
 					            name = "rumpf_2t7",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 				            },
 				            {
-					            materials = { "vehicle/train/pr_p2/tender.mtl", },
+					            materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 					            mesh = "vehicle/train/pr_p2/rad_tender_lod0.msh",
 					            name = "rad_2t7",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.3608, 0, 0.47001597285271, 1, },
 				            },
 				            {
-					            materials = { "vehicle/train/pr_p2/tender.mtl", },
+					            materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 					            mesh = "vehicle/train/pr_p2/rad_tender_lod0.msh",
 					            name = "rad_2t7",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.3596, 0, 0.47001597285271, 1, },
@@ -227,19 +227,19 @@ return {
                     {
 				        children = {
 					        {
-						        materials = { "vehicle/train/pr_p2/rumpf.mtl", },
+						        materials = { "vehicle/train/pr_p2/rumpf_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/rumpf_p2_lod1.msh",
 						        name = "rumpf_p2",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
 					        {
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/rad_lod1.msh",
 						        name = "rad",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.97374576330185, 1, },
 					        },
 					        {
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/rad_lod1.msh",
 						        name = "rad",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -2.227, 0, 0.97374576330185, 1, },
@@ -247,19 +247,19 @@ return {
                             {
 				                children = {
                                     {
-						                materials = { "vehicle/train/pr_p2/tender.mtl", },
+						                materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						                mesh = "vehicle/train/pr_p2/bogie_p2_lod1.msh",
 						                name = "bogie_p2",
 						                transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.59615, 1, },
 					                },
 					                {
-						                materials = { "vehicle/train/pr_p2/tender.mtl", },
+						                materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						                mesh = "vehicle/train/pr_p2/rad_2t7_lod1.msh",
 						                name = "rad_klein",
 						                transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.6551, 0, 0.45709, 1, },
 					                },
 					                {
-						                materials = { "vehicle/train/pr_p2/tender.mtl", },
+						                materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						                mesh = "vehicle/train/pr_p2/rad_2t7_lod1.msh",
 						                name = "rad_klein",
 						                transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.6576, 0, 0.45709, 1, },
@@ -277,7 +277,7 @@ return {
 								        type = "FILE_REF",
 							        },
 						        },
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/antrieb_links_lod0.msh",
 						        name = "antrieb_links",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.0055, 0.9534940123558, 1.3275973796844, 1, },
@@ -291,7 +291,7 @@ return {
 								        type = "FILE_REF",
 							        },
 						        },
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/antrieb_rechts_lod0.msh",
 						        name = "antrieb_rechts",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.0054, -0.95349395275116, 0.62004441022873, 1, },
@@ -305,7 +305,7 @@ return {
 								        type = "FILE_REF",
 							        },
 						        },
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/binder_links_lod0.msh",
 						        name = "binder_links",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.0048, 1.075520157814, 1.3277859687805, 1, },
@@ -319,7 +319,7 @@ return {
 								        type = "FILE_REF",
 							        },
 						        },
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/binder_rechts_lod0.msh",
 						        name = "binder_rechts",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.0051, -1.0755232572556, 0.62029135227203, 1, },
@@ -333,7 +333,7 @@ return {
 								        type = "FILE_REF",
 							        },
 						        },
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/schieber_links_lod0.msh",
 						        name = "schieber_links",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.9189, 1.075189948082, 1.1935002803802, 1, },
@@ -347,7 +347,7 @@ return {
 								        type = "FILE_REF",
 							        },
 						        },
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/schieber_rechts_lod0.msh",
 						        name = "schieber_rechts",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.8263, -1.0751923322678, 1.1820540428162, 1, },
@@ -377,19 +377,19 @@ return {
                     {
 				        children = {
 				            {
-					            materials = { "vehicle/train/pr_p2/tender.mtl", },
+					            materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 					            mesh = "vehicle/train/pr_p2/rumpf_2t7_lod1.msh",
 					            name = "rumpf_2t7",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 				            },
 				            {
-					            materials = { "vehicle/train/pr_p2/tender.mtl", },
+					            materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 					            mesh = "vehicle/train/pr_p2/rad_2t7_lod1.msh",
 					            name = "rad_2t7",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.3608, 0, 0.47001597285271, 1, },
 				            },
 				            {
-					            materials = { "vehicle/train/pr_p2/tender.mtl", },
+					            materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 					            mesh = "vehicle/train/pr_p2/rad_2t7_lod1.msh",
 					            name = "rad_2t7",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.3596, 0, 0.47001597285271, 1, },
@@ -424,19 +424,19 @@ return {
                     {
 				        children = {
 					        {
-						        materials = { "vehicle/train/pr_p2/rumpf.mtl", },
+						        materials = { "vehicle/train/pr_p2/rumpf_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/rumpf_p2_lod2.msh",
 						        name = "rumpf_p2",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
 					        {
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/rad_lod2.msh",
 						        name = "rad",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.97374576330185, 1, },
 					        },
 					        {
-						        materials = { "vehicle/train/pr_p2/tender.mtl", },
+						        materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						        mesh = "vehicle/train/pr_p2/rad_lod2.msh",
 						        name = "rad",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -2.227, 0, 0.97374576330185, 1, },
@@ -444,19 +444,19 @@ return {
                             {
 				                children = {
                                     {
-						                materials = { "vehicle/train/pr_p2/tender.mtl", },
+						                materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						                mesh = "vehicle/train/pr_p2/bogie_p2_lod2.msh",
 						                name = "bogie_p2",
 						                transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.59615, 1, },
 					                },
 					                {
-						                materials = { "vehicle/train/pr_p2/tender.mtl", },
+						                materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						                mesh = "vehicle/train/pr_p2/rad_2t7_lod2.msh",
 						                name = "rad_klein",
 						                transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.6551, 0, 0.45709, 1, },
 					                },
 					                {
-						                materials = { "vehicle/train/pr_p2/tender.mtl", },
+						                materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 						                mesh = "vehicle/train/pr_p2/rad_2t7_lod2.msh",
 						                name = "rad_klein",
 						                transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.6576, 0, 0.45709, 1, },
@@ -472,19 +472,19 @@ return {
                     {
 				        children = {
 				            {
-					            materials = { "vehicle/train/pr_p2/rumpf.mtl", },
+					            materials = { "vehicle/train/pr_p2/rumpf_kpev.mtl", },
 					            mesh = "vehicle/train/pr_p2/rumpf_2t7_lod2.msh",
 					            name = "rumpf_2t7",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 				            },
 				            {
-					            materials = { "vehicle/train/pr_p2/tender.mtl", },
+					            materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 					            mesh = "vehicle/train/pr_p2/rad_2t7_lod2.msh",
 					            name = "rad_2t7",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.3608, 0, 0.47001597285271, 1, },
 				            },
 				            {
-					            materials = { "vehicle/train/pr_p2/tender.mtl", },
+					            materials = { "vehicle/train/pr_p2/tender_kpev.mtl", },
 					            mesh = "vehicle/train/pr_p2/rad_2t7_lod2.msh",
 					            name = "rad_2t7",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.3596, 0, 0.47001597285271, 1, },
@@ -504,14 +504,14 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1879,
-			yearTo = 1881,
+			yearFrom = 1881,
+			yearTo = 1906,
 		},
 		cost = {
 			price = -1,
 		},
 		description = {
-			name = _("pr_p2_name"),
+			name = _("pr_p2_kpev_name"),
 			description = _("pr_p2_desc"),
 		},
 		emission = {
