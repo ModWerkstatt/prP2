@@ -161,12 +161,6 @@ return {
 						        name = "licht_weiss",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
-					        {
-						        materials = { "vehicle/train/pr_p2/licht.mtl", },
-						        mesh = "vehicle/train/pr_p2/licht_rot_lod0.msh",
-						        name = "licht_rot",
-						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					        },
                         },
 		                name = "prP2",
 		                transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 2.25, 0, 0, 1, },
