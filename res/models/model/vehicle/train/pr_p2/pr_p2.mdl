@@ -559,7 +559,7 @@ return {
 				{
 					axles = { "vehicle/train/pr_p2/rad_lod0.msh",
 						      "vehicle/train/pr_p2/rad_klein_lod0.msh",
-							  "vehicle/train/pr_p2/tender_rad_lod0.msh", },
+							  "vehicle/train/pr_p2/rad_tender_lod0.msh", },
 					backBackwardParts = { 18, },
 					backForwardParts = { 24, },
 					frontBackwardParts = { 25, },
