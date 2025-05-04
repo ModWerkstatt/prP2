@@ -601,7 +601,7 @@ return {
 			},
 			soundSet = { name = "train_steam_old", },
 			topSpeed = 19.44444444,
-			weight = 36.5,
+			weight = 49.5,
 		},
 		seatProvider = {
 			drivingLicense = "RAIL",
