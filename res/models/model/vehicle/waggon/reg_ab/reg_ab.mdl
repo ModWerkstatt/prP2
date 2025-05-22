@@ -927,6 +927,7 @@ return {
 			},
 			loadSpeed = 4,
             reversible = false,
+            groupFileName = "vehicle/train/pr_p2/menu_pr_p2.mdl",
 		},
 	},
     version = 1,
